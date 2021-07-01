@@ -1,0 +1,1 @@
+{"title": "ICLR 2018 Conference Acceptance Decision", "comment": "The authors propose to use identity + some weights in the recurrent connections to prevent vanishing gradients. The reviewers found the experiments to have weak baselines, weakening the claims of the paper.", "decision": "Reject"}

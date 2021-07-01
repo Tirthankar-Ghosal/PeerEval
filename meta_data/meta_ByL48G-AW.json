@@ -1,0 +1,1 @@
+{"title": "ICLR 2018 Conference Acceptance Decision", "comment": "Evaluating simple baselines for continuous control is important and nearest neighbor search methods are interesting. However, the reviewers think that the paper lacks citation and comparison to some prior work and evaluation on more challenging benchmarks.", "decision": "Reject"}

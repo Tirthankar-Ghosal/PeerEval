@@ -1,0 +1,1 @@
+{"title": "ICLR 2018 Conference Acceptance Decision", "comment": "pros:\n* novel explanation: skip connections <--> singualrities\n* thorough analysis\n* significant topic in understanding deep nets\n\ncons:\n* more rigorous theoretical analysis would be better\n\noverall, the committee feels this paper would be interesting to have at ICLR.\n", "decision": "Accept (Poster)"}

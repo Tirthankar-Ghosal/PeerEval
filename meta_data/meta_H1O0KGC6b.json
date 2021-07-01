@@ -1,0 +1,1 @@
+{"title": "ICLR 2018 Conference Acceptance Decision", "comment": "* the proposed fine-tuning of only the last layer is not novel enough\n* experiments are not sufficient to isolate the differences to support the benefit of post-training\n", "decision": "Reject"}

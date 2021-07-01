@@ -1,0 +1,1 @@
+{"title": "ICLR 2018 Conference Acceptance Decision", "comment": "This paper presents an update to the method of Franceschi 2017 to optimize regularization hyperparameters, to improve stability.  However, the theoretical story isn't so clear, and the results aren't much of an improvement.  Overall, the presentation and development of the idea needs work.", "decision": "Reject"}

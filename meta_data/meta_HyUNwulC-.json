@@ -1,0 +1,1 @@
+{"title": "ICLR 2018 Conference Acceptance Decision", "comment": "Paper presents a way in which linear RNNs can be computed (fprop, bprop) using parallel scan. They show big improvements in speedups and show application on really long sequences. Reviews were generally favorable.", "decision": "Accept (Poster)"}

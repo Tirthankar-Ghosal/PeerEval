@@ -1,0 +1,1 @@
+{"title": "ICLR 2018 Conference Acceptance Decision", "comment": "The authors seem to miss important related literature for their comparison.\nThey also tuned hyperparameters and tested on the same validation set.\nThey should split between train/validation/test.\n\nReviews are just too low across the board to accept.", "decision": "Reject"}
